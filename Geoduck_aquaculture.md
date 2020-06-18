@@ -159,7 +159,7 @@ Pacific geoduck reproduce sexually and are broadcast spawners, meaning males and
 
 <img src="Geoduck_aquaculture.assets/mat_larvae.JPG" width="275"> <img src="Geoduck_aquaculture.assets/D-hinge.JPG" width="275">
 
->*PHOTO*: Mat Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive with millions of D-hinge geoduck larvae.
+>*PHOTO*: Matt Henderson, hatchery manager at Jamestown Point Whitney Shellfish Hatchery, rinsing a 20µm seive with millions of D-hinge geoduck larvae.
 
 <img src="Geoduck_aquaculture.assets/old_Dhinge_presetters_2.JPG" height="300">
 
@@ -189,7 +189,7 @@ Grow-out  |  Beaches/mudflats  | 4-7 years
 
 ## <span style="color:Green">**II.1 Identification of Sex & Reproductive Status**</span>
 
-A major artifact of geoduck aquaculture is the **spontaneous and opportunistic nature of natural spawning events**. For example, an unplanned nighttime natural spawn of a female geoduck set the stage for the growing season at Jamestown Point Whitney Shellfish Hatchery in winter 2019 (*Mat Henderson, personal communication*). Millions of eggs (~30) were released into a single broodstock tank with two dozen other animals (of unknown sex) and under seawater flow-though. In an optimal scenario, technicians would have isolated the spawning female to a static tank to control spawning/fertilization and maximize  egg yield. This event lead to a totally autotomous fertilization process outside of standard 9:00am - 5:00pm work hours. In most cases, spontaneous and unplanned spawning presents major loss in potential profit - luckily, personnel at JPWSH live on site and were able to salvage fertilized embryos.
+A major artifact of geoduck aquaculture is the **spontaneous and opportunistic nature of natural spawning events**. For example, an unplanned nighttime natural spawn of a female geoduck set the stage for the growing season at Jamestown Point Whitney Shellfish Hatchery in winter 2019 (*Matt Henderson, personal communication*). Millions of eggs (~30) were released into a single broodstock tank with two dozen other animals (of unknown sex) and under seawater flow-though. In an optimal scenario, technicians would have isolated the spawning female to a static tank to control spawning/fertilization and maximize  egg yield. This event lead to a totally autotomous fertilization process outside of standard 9:00am - 5:00pm work hours. In most cases, spontaneous and unplanned spawning presents major loss in potential profit - luckily, personnel at JPWSH live on site and were able to salvage fertilized embryos.
 
 Losses in production and profit are unfortunately common in shellfish aquaculture. In the story stated above, aquaculture technicians were limited by two main factors:
 - **sex identification of broodstock**: The sex is unknown to hatchery personnel and is only revelead once an individual begins spawning.
